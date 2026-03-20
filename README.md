@@ -20,7 +20,7 @@ Student at **University of Washington Bothell**,planning for Applied Computing m
 
 ## 🎓 Education
 
-**University of Washington Bothell** — B.S. Applied Computing *(Incoming)*
+**University of Washington Bothell** — Pre Major student
 
 ---
 
