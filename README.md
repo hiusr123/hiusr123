@@ -1,4 +1,4 @@
-# Hi, I'm Alvin Chow 👋
+# Hi, I'm Alvin 👋
 
 Student at **University of Washington Bothell**,planning for Applied Computing major with a foundation in networking and security. Currently learning to build and explore what's possible with code.
 
