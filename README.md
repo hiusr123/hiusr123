@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Alvin Chow 👋
 
-<!--
-**hiusr123/hiusr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at **University of Washington Bothell**,planning for Applied Computing major with a foundation in networking and security. Currently learning to build and explore what's possible with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- 🔐 **CompTIA Security+**
+- 🌐 **Cisco CCNA** *(Cisco Certified Network Associate)*
+
+---
+
+## 🎓 Education
+
+**University of Washington Bothell** — B.S. Applied Computing *(Incoming)*
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvin-chow-a25102320/)
+
+---
+
+*Always learning. Always building.*
