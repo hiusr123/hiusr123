@@ -1,6 +1,6 @@
 # Hi, I'm Alvin 👋
 
-Student at **University of Washington Bothell**,planning for Applied Computing major with a foundation in networking and security. Currently learning to build and explore what's possible with code.
+Student at **University of Washington Bothell**, Applied Computing major with a foundation in networking and security. Currently learning to build and explore what's possible with code.
 
 ---
 
@@ -20,7 +20,7 @@ Student at **University of Washington Bothell**,planning for Applied Computing m
 
 ## 🎓 Education
 
-**University of Washington Bothell** — Pre Major student
+**University of Washington Bothell** — Applied Computing Major with Cybersecurity Minor
 
 ---
 
